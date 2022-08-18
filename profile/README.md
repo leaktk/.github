@@ -4,4 +4,6 @@ LeakTK (pronounced "leaked") is a place to open source and colaborate on some ex
 
 ## Status
 
-Getting everthing set up ^_^
+* Patterns and fake-leaks repos added
+* New gitleaks 8 patterns planned
+* Scanner work started
