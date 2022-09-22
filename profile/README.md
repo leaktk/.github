@@ -9,3 +9,11 @@ After enough of the individual components are brought over, a `leaktk` project w
 * Patterns and fake-leaks repos added
 * New gitleaks 8 patterns planned
 * Scanner work started
+
+## Future Project Ideas & Notes
+
+### browser-plugin
+
+* mvp - a few hard coded patterns, notifies users when they've pasted something that matches one
+* next - integrates with both unauthed and authed pattern servers
+* ideal - scanner compiled down into a wasm or simlar and included as the engine for the plugin and talks to the pattern server and the plugin supports allowlist config.
