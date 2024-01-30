@@ -15,11 +15,6 @@ After enough of the individual components are brought over, a `leaktk` project w
 
 For more info check out the [docs](https://github.com/leaktk/docs).
 
-## Logo Copyright
+## Asset Copyrights
 
-```
-Title: LeakTK Logo
-Author: Lykidae
-Source: https://avatars.githubusercontent.com/u/110341367
-License: CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
-```
+[Details Here](https://github.com/leaktk/.github/blob/main/assets/COPYRIGHT.md)
